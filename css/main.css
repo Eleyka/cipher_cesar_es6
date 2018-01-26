@@ -1,0 +1,5 @@
+::placeholder { color: rgb(90, 90, 94); }
+body{
+    background: linear-gradient(rgb(231, 227, 227), rgb(116, 222, 248));
+    height: 100vh;
+}
